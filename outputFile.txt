@@ -1,0 +1,6 @@
+snow storm 4
+safe 5
+immigrant 15
+expensive 1
+immigrants 4
+friendly 1
