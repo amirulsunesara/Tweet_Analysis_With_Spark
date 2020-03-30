@@ -32,7 +32,8 @@ Output after cleaning tweets will stored in fetchedTweets.json file.
 "DateTime": "19-Feb-2019 17:3541"
 },
 {
-"Tweet": "This program is a great opportunity for employers to grow their businesses by employing apprentices like Cassandra ", "Author": "NSLAE",
+"Tweet": "This program is a great opportunity for employers to grow their businesses by employing apprentices like Cassandra ", 
+"Author": "NSLAE",
 "Location": "",
 "DateTime": "19-Feb-2019 15:1958"
 }]
